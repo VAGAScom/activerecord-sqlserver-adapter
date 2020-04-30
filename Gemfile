@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'openssl'
 source 'https://rubygems.org'
 gemspec
